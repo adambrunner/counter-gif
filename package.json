@@ -1,0 +1,31 @@
+{
+  "name": "counter-gif",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "gulp start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adambrunner/counter-gif.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adambrunner/counter-gif/issues"
+  },
+  "homepage": "https://github.com/adambrunner/counter-gif#readme",
+  "dependencies": {
+    "boar-stack": "^0.8.0",
+    "boar-tasks-server": "^1.4.0",
+    "gifencoder": "^1.0.6",
+    "koa": "^1.1.2",
+    "moment": "^2.10.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-env": "^0.2.0",
+    "run-sequence": "^1.1.5",
+    "yargs": "^3.30.0"
+  }
+}
